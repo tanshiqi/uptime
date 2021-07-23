@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.tjad.cn",
     "slug": "tjad",
     "status": "up",
-    "uptime": "80.57%",
-    "uptimeDay": "80.57%",
-    "uptimeWeek": "80.57%",
-    "uptimeMonth": "80.57%",
-    "uptimeYear": "80.57%",
+    "uptime": "81.98%",
+    "uptimeDay": "81.98%",
+    "uptimeWeek": "81.98%",
+    "uptimeMonth": "81.98%",
+    "uptimeYear": "81.98%",
     "time": 1220,
     "timeDay": 1220,
     "timeWeek": 1220,
     "timeMonth": 1220,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2021-07-23": 136
+      "2021-07-23": 128
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "http://da.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/da.tjad.cn",
     "slug": "gallery",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1164,
-    "timeDay": 1164,
-    "timeWeek": 1164,
-    "timeMonth": 1164,
-    "timeYear": 1164,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.18%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.18%",
+    "time": 1075,
+    "timeDay": 1075,
+    "timeWeek": 1075,
+    "timeMonth": 1075,
+    "timeYear": 1075,
+    "dailyMinutesDown": {
+      "2021-07-23": 13
+    }
   },
   {
     "name": "Video 视频库",
