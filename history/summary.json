@@ -4,19 +4,19 @@
     "url": "http://www.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/www.tjad.cn",
     "slug": "tjad",
-    "status": "down",
-    "uptime": "78.14%",
-    "uptimeDay": "78.14%",
-    "uptimeWeek": "78.14%",
-    "uptimeMonth": "78.14%",
-    "uptimeYear": "78.14%",
-    "time": 1247,
-    "timeDay": 1247,
-    "timeWeek": 1247,
-    "timeMonth": 1247,
-    "timeYear": 1247,
+    "status": "up",
+    "uptime": "76.70%",
+    "uptimeDay": "76.70%",
+    "uptimeWeek": "76.70%",
+    "uptimeMonth": "76.70%",
+    "uptimeYear": "76.70%",
+    "time": 1225,
+    "timeDay": 1225,
+    "timeWeek": 1225,
+    "timeMonth": 1225,
+    "timeYear": 1225,
     "dailyMinutesDown": {
-      "2021-07-23": 113
+      "2021-07-23": 123
     }
   },
   {
