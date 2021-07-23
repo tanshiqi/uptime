@@ -3,13 +3,13 @@ owner: tanshiqi # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: TJAD 官网
+  - name: Tjad 官网
     url: http://www.tjad.cn
-  - name: TJAD 图库
+  - name: Gallery 图库
     url: http://da.tjad.cn
-  - name: TJAD 视频库
+  - name: Video 视频库
     url: http://vd.tjad.cn
-  - name: TJAD 评选管理系统
+  - name: Award 评选管理系统
     url: http://award.tjad.cn
 
 status-website:
