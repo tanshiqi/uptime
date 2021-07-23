@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Tjad 官网
     url: http://www.tjad.cn
+  - name: Career 人才门户
+    url: http://careers.tjad.cn
   - name: Gallery 图库
     url: http://da.tjad.cn
   - name: Video 视频库
