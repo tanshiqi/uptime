@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.tjad.cn",
     "slug": "tjad",
     "status": "up",
-    "uptime": "93.04%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "93.04%",
-    "uptimeMonth": "93.04%",
-    "uptimeYear": "93.04%",
+    "uptime": "93.90%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "93.90%",
     "time": 1209,
-    "timeDay": 1147,
+    "timeDay": 1173,
     "timeWeek": 1209,
     "timeMonth": 1209,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2021-07-24": 8,
       "2021-07-23": 128
     }
   },
@@ -43,45 +42,49 @@
     "url": "http://da.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/da.tjad.cn",
     "slug": "gallery",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1242,
     "timeDay": 1273,
     "timeWeek": 1242,
     "timeMonth": 1242,
     "timeYear": 1242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-24": 1
+    }
   },
   {
     "name": "Video 视频库",
     "url": "http://vd.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/vd.tjad.cn",
     "slug": "video",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1016,
     "timeDay": 1049,
     "timeWeek": 1016,
     "timeMonth": 1016,
     "timeYear": 1016,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-24": 0
+    }
   },
   {
     "name": "Award 评选管理系统",
     "url": "http://award.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/award.tjad.cn",
     "slug": "award",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,6 +93,8 @@
     "timeWeek": 1466,
     "timeMonth": 1466,
     "timeYear": 1466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-24": 0
+    }
   }
 ]
