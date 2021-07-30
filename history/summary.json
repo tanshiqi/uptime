@@ -26,19 +26,19 @@
     "url": "http://careers.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/careers.tjad.cn",
     "slug": "career",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1170,
     "timeDay": 1198,
     "timeWeek": 1186,
     "timeMonth": 1170,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2021-07-30": 9
+      "2021-07-30": 0
     }
   },
   {
