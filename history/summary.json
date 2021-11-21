@@ -61,9 +61,9 @@
     "url": "http://da.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/da.tjad.cn",
     "slug": "gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -73,6 +73,7 @@
     "timeMonth": 1323,
     "timeYear": 1334,
     "dailyMinutesDown": {
+      "2021-11-21": 0,
       "2021-09-23": 17,
       "2021-08-10": 65,
       "2021-07-25": 104
