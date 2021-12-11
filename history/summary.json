@@ -13,7 +13,7 @@
     "time": 1342,
     "timeDay": 969,
     "timeWeek": 1223,
-    "timeMonth": 1263,
+    "timeMonth": 1255,
     "timeYear": 1342,
     "dailyMinutesDown": {
       "2021-11-06": 62,
@@ -84,9 +84,9 @@
     "url": "http://vd.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/vd.tjad.cn",
     "slug": "video",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -96,6 +96,7 @@
     "timeMonth": 1030,
     "timeYear": 1206,
     "dailyMinutesDown": {
+      "2021-12-11": 0,
       "2021-09-27": 21,
       "2021-09-23": 16,
       "2021-07-25": 162,
