@@ -7,10 +7,10 @@ sites:
     url: http://www.tjad.cn
   - name: Career 人才门户
     url: http://careers.tjad.cn
-  - name: Gallery 图库
-    url: http://da.tjad.cn
-  - name: Video 视频库
-    url: http://vd.tjad.cn
+#   - name: Gallery 图库
+#     url: http://da.tjad.cn
+#   - name: Video 视频库
+#     url: http://vd.tjad.cn
   - name: Award 评选管理系统
     url: http://award.tjad.cn
 
