@@ -13,7 +13,7 @@
     "time": 1430,
     "timeDay": 1303,
     "timeWeek": 1317,
-    "timeMonth": 1343,
+    "timeMonth": 1355,
     "timeYear": 1430,
     "dailyMinutesDown": {
       "2022-01-24": 79,
@@ -53,7 +53,7 @@
     "uptimeYear": "99.96%",
     "time": 1116,
     "timeDay": 1192,
-    "timeWeek": 1058,
+    "timeWeek": 1083,
     "timeMonth": 1070,
     "timeYear": 1116,
     "dailyMinutesDown": {
@@ -72,9 +72,9 @@
     "url": "http://award.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/award.tjad.cn",
     "slug": "award",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -84,6 +84,7 @@
     "timeMonth": 1938,
     "timeYear": 1806,
     "dailyMinutesDown": {
+      "2022-04-10": 0,
       "2022-01-10": 30,
       "2022-01-04": 24,
       "2022-01-01": 58,
