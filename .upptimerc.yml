@@ -11,8 +11,8 @@ sites:
 #     url: http://da.tjad.cn
 #   - name: Video 视频库
 #     url: http://vd.tjad.cn
-  - name: Award 评选管理系统
-    url: http://award.tjad.cn
+#   - name: Award 评选管理系统
+#     url: http://award.tjad.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
