@@ -13,7 +13,7 @@
     "time": 1449,
     "timeDay": 1638,
     "timeWeek": 2035,
-    "timeMonth": 1648,
+    "timeMonth": 1658,
     "timeYear": 1449,
     "dailyMinutesDown": {
       "2022-05-19": 21,
@@ -46,9 +46,9 @@
     "url": "http://careers.tjad.cn",
     "icon": "https://favicons.githubusercontent.com/careers.tjad.cn",
     "slug": "career",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.90%",
@@ -58,6 +58,7 @@
     "timeMonth": 1436,
     "timeYear": 1205,
     "dailyMinutesDown": {
+      "2022-05-29": 0,
       "2022-05-27": 19,
       "2022-05-24": 33,
       "2022-05-23": 18,
